@@ -1,0 +1,68 @@
+.heading {
+
+	background-color:orange;
+	height:70px;
+	width:200px;
+	text-align:center;
+	padding-top:30px;
+	font-weight: bold;
+	color:white;
+	border-style:solid;
+}
+
+.row {
+
+	background-color: #FAEBD7;
+	width: 40%;
+	color: green;
+	font-weight: bold;
+	height:60%;
+	padding-bottom: 30px;
+}
+
+
+#num {
+
+	background-color: green;
+	color: purple;
+	height:70px;
+	width:200px;
+	float:left;
+	margin-bottom: 0;
+
+	
+}
+
+body {
+
+	background-image: url(../images/woodback.jpg);
+}
+
+.stats {
+
+	background-color: lightblue;
+	width:200px;
+	height:75px;
+	margin-left: 220px;
+	margin-top:15px;
+	padding-top: 10px;
+}
+
+.scoretxt {
+
+	background-color: lightblue;
+	font-weight: bold;
+	width:15%;
+}
+
+.score {
+
+	background-color: lightblue;
+	width:15%;
+	padding-bottom:30px;
+}
+
+h4 {
+
+	margin:0;
+}
